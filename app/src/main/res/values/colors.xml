@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="adaptive_text_color_light">#FFFFFFFF</color> <!-- 浅色主题下白色文字 -->
+    <color name="adaptive_text_color_dark">#FF000000</color> <!-- 深色主题下黑色文字 -->
+    <color name="adaptive_text_color">@color/adaptive_text_color_light</color>
+</resources>
+
